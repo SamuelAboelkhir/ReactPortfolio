@@ -46,7 +46,7 @@ const LandingSection = () => {
         .email("Invalid email address")
         .required("Email is required"),
       comment: Yup.string()
-        .min(10, "Message must be at least 10 characters")
+        .min(10, "Message must be at least 25 characters")
         .required("Message is required"),
     }),
   });
