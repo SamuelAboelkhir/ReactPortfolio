@@ -5,16 +5,18 @@ import Card from "./Card";
 
 const projects = [
   {
-    title: "React Space",
+    title: "NoThanks boardgame",
     description:
-      "Handy tool belt to create amazing AR components in a React app, with redux integration via middleware️",
-    getImageSrc: () => require("../images/photo1.jpg"),
+      "A boardgame created using React and BoardGame.io.",
+    getImageSrc: () => require("../images/BoardGameUi.png"),
+    link: "https://github.com/BlackDovah/NoThanksBoardGame",
   },
   {
-    title: "React Infinite Scroll",
+    title: "React simple calculator",
     description:
-      "A scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land 🔥️",
-    getImageSrc: () => require("../images/photo2.jpg"),
+      "A very simple calculator created using React as my very first project.",
+    getImageSrc: () => require("../images/SimplestWorkingCalculator.png"),
+    link: "https://github.com/BlackDovah/ReactCalculator"
   },
   {
     title: "Photo Gallery",
@@ -53,6 +55,7 @@ const ProjectsSection = () => {
             title={project.title}
             description={project.description}
             imageSrc={project.getImageSrc()}
+            link={project.link}
           />
         ))}
       </Box>
