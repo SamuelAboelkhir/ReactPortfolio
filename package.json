@@ -28,7 +28,8 @@
     "predeploy": "pnpm run build",
     "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build:gh": "react-scripts build",
+    "build:vercel": "react-scripts build && sed -i '/homepage/d' package.json",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
