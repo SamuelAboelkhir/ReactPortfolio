@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BlackDovah/ReactPortfolio/static/css/main.df6a7eab.css",
+    "main.js": "/BlackDovah/ReactPortfolio/static/js/main.a5e3a53c.js",
+    "static/js/646.368c1281.chunk.js": "/BlackDovah/ReactPortfolio/static/js/646.368c1281.chunk.js",
+    "static/media/BoardGameUi.png": "/BlackDovah/ReactPortfolio/static/media/BoardGameUi.85ae8bba5d51c31f4b5d.png",
+    "static/media/1675893334798.jpeg": "/BlackDovah/ReactPortfolio/static/media/1675893334798.cd12ffd9baa809aeaec6.jpeg",
+    "static/media/reactCalculator.png": "/BlackDovah/ReactPortfolio/static/media/reactCalculator.dd8d338b3c1f8e19a491.png",
+    "index.html": "/BlackDovah/ReactPortfolio/index.html",
+    "main.df6a7eab.css.map": "/BlackDovah/ReactPortfolio/static/css/main.df6a7eab.css.map",
+    "main.a5e3a53c.js.map": "/BlackDovah/ReactPortfolio/static/js/main.a5e3a53c.js.map",
+    "646.368c1281.chunk.js.map": "/BlackDovah/ReactPortfolio/static/js/646.368c1281.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6a7eab.css",
+    "static/js/main.a5e3a53c.js"
+  ]
+}
