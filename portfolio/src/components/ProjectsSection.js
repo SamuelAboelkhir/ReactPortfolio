@@ -14,8 +14,8 @@ const projects = [
   {
     title: "React simple calculator",
     description:
-      "A very simple calculator created using React as my very first project.",
-    getImageSrc: () => require("../images/SimplestWorkingCalculator.png"),
+      "A calculator created using React and tailwindcss as my very first project.",
+    getImageSrc: () => require("../images/reactCalculator.png"),
     link: "https://github.com/BlackDovah/ReactCalculator"
   },
 ];
