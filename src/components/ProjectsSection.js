@@ -8,7 +8,7 @@ const projects = [
     title: "NoThanks boardgame",
     description:
       "A boardgame created using React and BoardGame.io.",
-    getImageSrc: () => require("../images/BoardGameUi.png"),
+    getImageSrc: () => require("../images/BoardGameUI.png"),
     link: "https://github.com/BlackDovah/NoThanksBoardGame",
   },
   {
